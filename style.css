@@ -26,3 +26,24 @@ p {
     font-size: 20px;
     line-height: 1.6;
 }
+.btn-wa {
+    display: inline-block;
+    background: #25D366;
+    color: white;
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.btn-email {
+    display: inline-block;
+    background: #007BFF;
+    color: white;
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-weight: bold;
+}
